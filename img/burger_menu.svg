@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60.742" height="60.742" viewBox="0 0 60.742 60.742">
+  <g id="Gruppe_107" data-name="Gruppe 107" transform="translate(0 -2)">
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="30.371" cy="30.371" r="30.371" transform="translate(0 2)" fill="#04233b"/>
+    <path id="burger" d="M30.645,6H3.283a3.283,3.283,0,0,0,0,6.567H30.645a3.283,3.283,0,1,0,0-6.567Zm0,12.039H3.283a3.283,3.283,0,0,0,0,6.567H30.645a3.283,3.283,0,1,0,0-6.567Zm0,12.039H3.283a3.283,3.283,0,1,0,0,6.567H30.645a3.283,3.283,0,1,0,0-6.567Z" transform="translate(13.636 11.221)" fill="#fff"/>
+  </g>
+</svg>
